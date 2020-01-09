@@ -1,0 +1,57 @@
+h1{
+    color: rgb( 177, 163, 199);
+    font-family: 'Cinzel Decorative', cursive;
+    border-color: rgb(202, 237, 235);
+    text-shadow:  2px 3px rgb(66, 230, 245);
+}
+a{
+    text-decoration: none;
+    color: rgb(211, 245, 245);
+}
+
+li a:hover{
+    background-color: rgba(251, 242, 255,0.5);
+    color: red;
+}
+li{
+    display: inline;
+    
+}
+ul{
+    list-style-position: inherit;
+    height:10vh;
+}
+li{
+    font-family:'Shadows Into Light', cursive;
+    padding: 200px 100px;
+}
+body{
+    background-color: rgb(237, 202, 224);
+}
+h2{
+    color: rgb(211, 235, 245);
+}.bottomhalf{
+    text-align: center;
+    position: absolute;
+    width:200vh;
+    height:300vw;
+}
+ul{
+    color: rgb(202, 237, 235);
+    font-family: 'Amatic SC', cursive;
+}
+p1{
+    color: rgb(202, 229, 252);
+    font-family: 'Amatic SC', cursive;
+}
+ul{
+    margin-bottom: 100px;
+}
+.bighead{
+    text-align: center;
+}
+
+.order{
+    color: rgb(179, 255, 252);
+
+}
